@@ -145,5 +145,4 @@ npm run begin
 ```
 
 Agora você pode abrir [http://localhost:3000](http://localhost:3000) em seu navegador para ver a aplicação funcionando.
-
-
+A planilha está disponível para todos com o seguinte link: https://docs.google.com/spreadsheets/d/1wamdhJrBA0LjrhZ5akJ9kpGbOnfJcXDy4cf7_p-FgyY/edit?gid=0#gid=0
